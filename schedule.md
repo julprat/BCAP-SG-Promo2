@@ -94,7 +94,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 
 | Time | Session | Speaker |
 |---|---|---|
-| 09:30–11:00 | [MEV][lec8] (see also [Transaction Fee Mechanisms][lec7]) | Julien Prat |
+| 09:30–11:00 | [MEV][lec8] and [Transaction Fee Mechanisms][lec7] | Julien Prat |
 | 11:30–13:00 | [Lending Protocols][lec6] | Julien Prat |
 | 14:30–16:00 | Wrap Up | Julien Prat |
 
