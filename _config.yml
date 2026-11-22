@@ -1,0 +1,18 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Blockchain Advanced Program – SG Promo 2
+author: Julien Prat
+logo: Logo.png
+
+execute:
+  execute_notebooks: "off"
+
+html:
+  use_repository_button: false
+
+exclude_patterns: [README.md, _build]
+
+sphinx:
+  config:
+    html_show_copyright: false
