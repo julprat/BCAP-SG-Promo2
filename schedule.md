@@ -68,7 +68,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 
 | Time | Session | Speaker |
 |---|---|---|
-| 09:30–16:00 | Exploring Ethereum & DeFi Data – [setup instructions][tovanich] | Natkamon Tovanich |
+| 09:30–16:00 | [Exploring Ethereum & DeFi Data][tovanich-slides] – [setup instructions][tovanich] | Natkamon Tovanich |
 
 ## Module 5 – Use Cases
 
@@ -77,8 +77,8 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 | Time | Session | Speaker |
 |---|---|---|
 | 09:30–11:00 | Stablecoins & Prediction Markets *(slides to come)* | Michele Fabi |
-| 11:30–13:00 | More Cryptography *(slides to come)* | Daniel Augot |
-| 14:30–16:00 | State Channels & Rollups *(slides to come)* | Daniel Augot |
+| 11:30–13:00 | [MEV][lec8] and [Transaction Fee Mechanisms][lec7] | Julien Prat |
+| 14:30–16:00 | [Lending Protocols][lec6] | Julien Prat |
 
 ### Friday 13 November 2026
 
@@ -94,8 +94,8 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 
 | Time | Session | Speaker |
 |---|---|---|
-| 09:30–11:00 | [MEV][lec8] and [Transaction Fee Mechanisms][lec7] | Julien Prat |
-| 11:30–13:00 | [Lending Protocols][lec6] | Julien Prat |
+| 09:30–11:00 | [More Cryptography][augot-zk] | Daniel Augot |
+| 11:30–13:00 | State Channels & Rollups: [Advanced Scripts][augot-scripts] and [Layer 2][augot-l2] | Daniel Augot |
 | 14:30–16:00 | Wrap Up | Julien Prat |
 
 ### Friday 20 November 2026
@@ -128,7 +128,11 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 [tovanich]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-06%20-%20Natkamon%20Tovanich%20-%20DeFi%20Data%20Materials%20Tovanich.pdf> "2026-11-06 - Natkamon Tovanich - DeFi Data Materials Tovanich.pdf"
 [choukroun]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-13%20-%20Sebastien%20Choukroun%20-%2020260709%20-%20Blockchain%20x%20Societe%20Generale.pdf> "2026-11-13 - Sebastien Choukroun - 20260709 - Blockchain x Societe Generale.pdf"
 [canidio]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-13%20-%20Andrea%20Canidio%20-%20Presentation%20A%20Canidio.pdf> "2026-11-13 - Andrea Canidio - Presentation A Canidio.pdf"
-[lec8]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Julien%20Prat%20-%20Lec8_MEV_XEXED_26.pdf> "2026-11-19 - Julien Prat - Lec8_MEV_XEXED_26.pdf"
-[lec7]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Julien%20Prat%20-%20Lec7_TFM_XEXED_26.pdf> "2026-11-19 - Julien Prat - Lec7_TFM_XEXED_26.pdf"
-[lec6]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Julien%20Prat%20-%20Lec6_Lending_Protocols_XEXED_26.pdf> "2026-11-19 - Julien Prat - Lec6_Lending_Protocols_XEXED_26.pdf"
+[lec8]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-12%20-%20Julien%20Prat%20-%20Lec8_MEV_XEXED_26.pdf> "2026-11-12 - Julien Prat - Lec8_MEV_XEXED_26.pdf"
+[lec7]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-12%20-%20Julien%20Prat%20-%20Lec7_TFM_XEXED_26.pdf> "2026-11-12 - Julien Prat - Lec7_TFM_XEXED_26.pdf"
+[lec6]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-12%20-%20Julien%20Prat%20-%20Lec6_Lending_Protocols_XEXED_26.pdf> "2026-11-12 - Julien Prat - Lec6_Lending_Protocols_XEXED_26.pdf"
 [viallard]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-20%20-%20Louis%20Viallard%20-%20x402%20for%20Societe%20Generale.pdf> "2026-11-20 - Louis Viallard - x402 for Societe Generale.pdf"
+[tovanich-slides]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-06%20-%20Natkamon%20Tovanich%20-%20Exploring%20Blockchain%20DeFi%20Data.pdf> "2026-11-06 - Natkamon Tovanich - Exploring Blockchain DeFi Data.pdf"
+[augot-zk]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-more-crypto-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-more-crypto-toc.pdf"
+[augot-scripts]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-advanced-scripts-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-advanced-scripts-toc.pdf"
+[augot-l2]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-layer2-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-layer2-toc.pdf"
