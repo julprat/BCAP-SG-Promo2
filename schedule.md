@@ -95,7 +95,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 | Time | Session | Speaker |
 |---|---|---|
 | 09:30–11:00 | [More Cryptography][augot-zk] | Daniel Augot |
-| 11:30–13:00 | State Channels & Rollups: [Advanced Scripts][augot-scripts] and [Layer 2][augot-l2] | Daniel Augot |
+| 11:30–13:00 | [Advanced Scripts][augot-scripts] and [Layer 2][augot-l2] | Daniel Augot |
 | 14:30–16:00 | Wrap Up | Julien Prat |
 
 ### Friday 20 November 2026
