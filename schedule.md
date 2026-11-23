@@ -36,7 +36,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 |---|---|---|
 | 09:30–11:00 | [Ethereum Post-Merge][yag-pos] | Yackolley Amoussou Guenou |
 | 11:30–13:00 | [Smart Contracts][yag-sc] | Yackolley Amoussou Guenou |
-| 14:30–16:00 | AMMs *(slides to come)* | Michele Fabi |
+| 14:30–16:00 | [AMMs][fabi-amm] | Michele Fabi |
 
 ## Module 3 – Ethereum & DeFi
 
@@ -76,7 +76,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 
 | Time | Session | Speaker |
 |---|---|---|
-| 09:30–11:00 | Stablecoins & Prediction Markets *(slides to come)* | Michele Fabi |
+| 09:30–11:00 | [Stablecoins & Prediction Markets][fabi-pm] | Michele Fabi |
 | 11:30–13:00 | [MEV][lec8] and [Transaction Fee Mechanisms][lec7] | Julien Prat |
 | 14:30–16:00 | [Lending Protocols][lec6] | Julien Prat |
 
@@ -136,3 +136,5 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 [augot-zk]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-more-crypto-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-more-crypto-toc.pdf"
 [augot-scripts]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-advanced-scripts-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-advanced-scripts-toc.pdf"
 [augot-l2]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-layer2-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-layer2-toc.pdf"
+[fabi-amm]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-10-09%20-%20Michele%20Fabi%20-%20Economics_CFMM_Slides_EXEXED_2026.pdf> "2026-10-09 - Michele Fabi - Economics_CFMM_Slides_EXEXED_2026.pdf"
+[fabi-pm]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-12%20-%20Michele%20Fabi%20-%20Prediction%20Markets.pdf> "2026-11-12 - Michele Fabi - Prediction Markets.pdf"
