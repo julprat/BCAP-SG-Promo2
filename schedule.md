@@ -62,7 +62,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 | Time | Session | Speaker |
 |---|---|---|
 | 09:30–13:00 | [DeFi Protocols & Liquidity Mining][defi] | Xavier de Boissieu & Thomas Zamojski |
-| 14:30–16:00 | Ethereum Roadmap *(slides to come)* | Thomas Zamojski |
+| 14:30–16:00 | [Ethereum Roadmap][roadmap] | Thomas Zamojski |
 
 ### Friday 6 November 2026
 
@@ -84,7 +84,7 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 
 | Time | Session | Speaker |
 |---|---|---|
-| 09:30–11:00 | Industrial Use Case 2: Morpho *(slides to come)* | Adrien Laversanne-Finot |
+| 09:30–11:00 | [Industrial Use Case 2: Morpho][morpho] | Adrien Laversanne-Finot |
 | 11:30–13:00 | [MiCA][choukroun] | Sébastien Choukroun |
 | 14:30–16:00 | [Industrial Use Case 3: Category Labs][canidio] | Andrea Canidio |
 
@@ -138,3 +138,5 @@ Fall 2026 schedule. Each title links to the session's slides (PDF).
 [augot-l2]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-19%20-%20Daniel%20Augot%20-%20advanced-program-layer2-toc.pdf> "2026-11-19 - Daniel Augot - advanced-program-layer2-toc.pdf"
 [fabi-amm]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-10-09%20-%20Michele%20Fabi%20-%20Economics_CFMM_Slides_EXEXED_2026.pdf> "2026-10-09 - Michele Fabi - Economics_CFMM_Slides_EXEXED_2026.pdf"
 [fabi-pm]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-12%20-%20Michele%20Fabi%20-%20Prediction%20Markets.pdf> "2026-11-12 - Michele Fabi - Prediction Markets.pdf"
+[roadmap]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-05%20-%20Thomas%20Zamojski%20-%20Slidedeck%20Ethereum%20Roadmap.pdf> "2026-11-05 - Thomas Zamojski - Slidedeck Ethereum Roadmap.pdf"
+[morpho]: <https://www.dropbox.com/scl/fo/cojclwedsf2wjhu26esao/ALAuJhRLjKc80OVGmKPabHc?rlkey=xi32mcoi305pho3vpvyrxn7pb&raw=1&preview=2026-11-13%20-%20Adrien%20Laversanne-Finot%20-%20Morpho.pdf> "2026-11-13 - Adrien Laversanne-Finot - Morpho.pdf"
